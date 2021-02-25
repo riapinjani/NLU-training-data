@@ -473,6 +473,14 @@ nlu:
     - Where can I find my card's secret code
     - I think someone discovered my pin and I want to change it
     - I want to change the secret digits to access my credit card.
+    - How do i change my pin
+    - i dont remember my pin, what do i do
+    - i need a new pin please
+    - whats the process for changing a pin
+    - i lost my pin
+    - i told someone my pin, what do i do now
+    - someone has access to my pin
+    - i believe my husband knows the secret digits to my card, what do i do
 - intent: retirement_plan
   examples: |
     - I want to apply to a retirement savings plan
@@ -480,6 +488,11 @@ nlu:
     - what's the best RSP available in your products
     - Do you offer retirement savings plans
     - I want to invest some money for my retirement
+    - i want to apply for a retirement plan
+    - i need to know more about your retirement plan
+    - do yo have a retirement plan
+    - whats the criteria for your retirement plan
+    - how do i get a retirement plan 
 - intent: online_banking
   examples: |
     - I want to get access to online banking
